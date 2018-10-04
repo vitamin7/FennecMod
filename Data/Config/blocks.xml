@@ -6362,7 +6362,7 @@ group desc for stuff like metal siding
 	<property class="Workstation">
 		<property name="CraftingAreaRecipes" value="alloy_forge"/>
 		<property name="Modules" value="tools,output,fuel,material_input"/>
-		<property name="InputMaterials" value="iron,brass,copper,zinc,uranium,clay"/>
+		<property name="InputMaterials" value="iron,brass,copper,zinc,clay"/>
 	</property>
 	<property class="RepairItems">
 		<property name="rockSmall" value="50"/>
@@ -9954,7 +9954,7 @@ group desc for stuff like metal siding
 	<property class="Workstation">
 		<property name="CraftingAreaRecipes" value="alloy_forge"/>
 		<property name="Modules" value="tools,output,fuel,material_input"/>
-		<property name="InputMaterials" value="iron,brass,copper,zinc,uranium,clay"/>
+		<property name="InputMaterials" value="iron,brass,copper,zinc,clay"/>
 	</property>
 	<property class="RepairItems">
 		<property name="rockSmall" value="50"/>
